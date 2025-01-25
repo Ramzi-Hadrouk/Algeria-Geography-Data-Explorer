@@ -22,7 +22,7 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
 
 ## Data Structure
 
-1. **City Arabic Names (wilayat_ar.json)**: 
+1. **City Arabic Names ([wilayat_ar.json](wilayat_ar.json))**: 
    ```json
    [
      "ادرار",
@@ -32,7 +32,7 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
     "..."
    ]
    ```
-2. **City Latin  Names (wilayat_en.json)**:
+2. **City Latin  Names ([wilayat_en.json](wilayat_en.json))**:
    ```json
     [
     "Adrar",
