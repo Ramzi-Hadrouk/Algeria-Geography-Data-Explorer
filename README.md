@@ -42,7 +42,7 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
     "...."
     ]
   
-  2. **Cities With Full Information ([wilayat_full_information.json](wilayat_full_information.json)**:
+  2. **Cities With Full Information ([wilayat_full_information.json](wilayat_full_information.json))**:
    ```json
       {
         "1": {"name_en": "Adrar",
