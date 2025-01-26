@@ -42,6 +42,29 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
     "...."
     ]
   
+  2. **Cities With Full Information ([wilayat_full_information.json](wilayat_full_information.json)**:
+   ```json
+      {
+        "1": {"name_en": "Adrar",
+                   "name_ar": "أدرار",
+                   "number_of_dayrat": 6,
+                   "number_of_baladiyat": 16,
+                   "area_km": 254471,
+                   "area_ml": 98252,
+                   "population_2008": 261258
+             }
+       "2": {"name_en": "Chlef",
+             "name_ar": "الشلف",
+             "number_of_dayrat": 13,
+             "number_of_baladiyat": 35,
+             "area_km": 4795,
+             "area_ml": 1851,
+             "population_2008": 1002088
+           },
+          "...."
+        }
+```
+
 
 ## Contributing
 **We welcome contributions through**:
