@@ -1,4 +1,4 @@
-# Algeria Geography Data Explorer
+# 69 wilaya ,Algeria 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -22,7 +22,7 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
 
 ## Data Structure
 
-1. **City Arabic Names ([wilayat_ar.json](wilayat_ar.json))**: 
+1. **City Arabic Names ([69_wilayat_arabic.json](69_wilayat_arabic.json))**: 
    ```json
    [
      "ادرار",
@@ -32,7 +32,7 @@ A structured pipeline for collecting, cleaning, and organizing Algeria's adminis
     "..."
    ]
    ```
-2. **City Latin  Names ([wilayat_en.json](wilayat_en.json))**:
+2. **City Latin  Names ([69_wilayat_french.json](69_wilayat_french.json))**:
    ```json
     [
     "Adrar",
